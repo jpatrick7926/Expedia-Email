@@ -1,0 +1,24 @@
+{
+  "name": "Expedia-Email",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpatrick7926/Expedia-Email.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"https.//jpatrick7926/github.io/Expedia-Email",
+  "bugs": {
+    "url": "https://github.com/jpatrick7926/Expedia-Email/issues"
+  },
+  "homepage": "https://github.com/jpatrick7926/Expedia-Email#readme",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
